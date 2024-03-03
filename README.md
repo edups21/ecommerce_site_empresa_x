@@ -12,10 +12,10 @@ __Melhoria1__, _melhoria2:_
 
 ### Linguagens do projeto:
 
-*HTML
-*CSS
-*JavaScript
-*PHP
-*MySQL
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
 
 
