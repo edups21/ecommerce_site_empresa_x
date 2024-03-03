@@ -4,10 +4,10 @@ Vamos criar um **e-commercio**, para a *empresa X* e blablabla
 
 ## Funcionalidades:
 
-Checkout, Tela de produtos, Catálogos, Home com bannner
+**Checkout, _Tela de produtos_, Catálogos, Home com bannner**
 
 ###### Melhorias do projeto:
 
-Melhoria1, melhoria2:
+__Melhoria1__, _melhoria2:_
 
 
