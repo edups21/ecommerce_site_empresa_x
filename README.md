@@ -10,4 +10,12 @@ Vamos criar um **e-commercio**, para a *empresa X* e blablabla
 
 __Melhoria1__, _melhoria2:_
 
+### Linguagens do projeto:
+
+*HTML
+*CSS
+*JavaScript
+*PHP
+*MySQL
+
 
