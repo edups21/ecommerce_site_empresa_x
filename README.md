@@ -42,4 +42,8 @@ __Melhoria1__, _melhoria2:_
 
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
 
+Contribuidor principal: https://github.com/edups21
+
+
+
 
