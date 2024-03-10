@@ -45,5 +45,7 @@ __Melhoria1__, _melhoria2:_
 Contribuidor principal: https://github.com/edups21
 
 
+[![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png)](https://github.com/edups21)
+
 
 
