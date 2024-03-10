@@ -34,6 +34,6 @@ __Melhoria1__, _melhoria2:_
 
 #### Imagem externa
 
-![Logo do PHP](https://www.google.com/search?sca_esv=d6f9cb305c34ec5f&sxsrf=ACQVn08I73EvRnzPS3_70iLDvWWOLNTERg:1710064389886&q=logo+php&tbm=isch&source=lnms&sa=X&ved=2ahUKEwif8IGktumEAxVhppUCHSd2DrsQ0pQJegQIDRAB&biw=1366&bih=633&dpr=1#imgrc=U4WZsmAu1K5_tM)
+![Logo do PHP](https://pt.m.wikipedia.org/wiki/Ficheiro:PHP-logo.svg)
 
 
